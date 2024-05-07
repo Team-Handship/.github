@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Team Homeship
+Hello, welcome to Team Homeship! 
+We're a small team who want to make cool games for people to play!
+Members:
+* Lionel54 (@Lionel54g): Owner
+* tedbasher3000: Co-owner
+Roles vary on project per project basis but usually Lionel54 is the lead designer while tedbasher3000 is the lead programmer.
