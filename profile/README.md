@@ -1,4 +1,4 @@
-# Team Homeship
+# Team Handship
 Hello, welcome to Team Homeship! 
 We're a small team who want to make cool games for people to play!
 Members:
