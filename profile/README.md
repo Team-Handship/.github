@@ -1,5 +1,5 @@
 # Team Handship
-Hello, welcome to Team Homeship! 
+Hello, welcome to Team Handship! 
 We're a small team who want to make cool games for people to play!
 Members:
 * Lionel54 (@Lionel54g): Owner
